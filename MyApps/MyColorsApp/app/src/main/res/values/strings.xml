@@ -1,3 +1,13 @@
 <resources>
     <string name="app_name">MyColorsApp</string>
+    <string name="yellow">Yellow</string>
+    <string name="blue">Blue</string>
+    <string name="red">Red</string>
+    <string name="green">Green</string>
+    <string name="brown">Brown</string>
+    <string name="black">Black</string>
+    <string name="pink">Pink</string>
+    <string name="Purple">Purple</string>
+    <string name="white">White</string>
+    <string name="gray">Gray</string>
 </resources>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Mis colores</string>
+    <string name="yellow">Amarillo</string>
+    <string name="blue">Azul</string>
+    <string name="Purple">Púrpura</string>
+    <string name="black">Negro</string>
+    <string name="brown">Café</string>
+    <string name="gray">Gris</string>
+    <string name="green">Verde</string>
+    <string name="pink">Rosado</string>
+    <string name="red">Rojo</string>
+    <string name="white">Blanco</string>
+</resources>
